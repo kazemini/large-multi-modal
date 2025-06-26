@@ -1,0 +1,3 @@
+# This file is used to store compatible versions of various packages for our project.
+# Run this file using the following command to install/update the packages.
+# pip install -r requirements.txt
