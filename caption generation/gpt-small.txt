@@ -1,0 +1,102 @@
+0 rice leaf roller: A small green caterpillar rolled inside a rice leaf, creating a tight tube and feeding marks on the leaf edge.
+1 rice leaf caterpillar: A pale yellow-brown caterpillar with segmented body, chewing holes in rice leaf blades.
+2 paddy stem maggot: A tiny white maggot burrowing into the base of a rice stem, visible swelling at the entry point.
+3 asiatic rice borer: A slender brown moth larva boring into rice stems, leaving frass and a small hole.
+4 yellow rice borer: A yellowish caterpillar inside rice stalks, with silk webbing and exit holes.
+5 rice gall midge: A small orange midge larva causing swollen galls on young rice shoots.
+6 Rice Stemfly: A black-and-white striped fly larva feeding on the base of rice tillers.
+7 brown plant hopper: A wedge-shaped brown insect sitting on rice leaf, hind legs poised for jumping.
+8 white backed plant hopper: A white-bodied hopper with pale dorsal stripe, clinging to rice stem.
+9 small brown plant hopper: A tiny brown hopper with streamlined body, clustered on rice leaves.
+10 rice water weevil: A dark beetle walking on submerged rice roots, oval body and serrated antennae.
+11 rice leafhopper: A small green leafhopper perched on a rice leaf, hind legs folded under body.
+12 grain spreader thrips: Very small slender thrips with dark body, crawling across grain surface.
+13 rice shell pest: Beetle or weevil emerging from rice hulls, round body and chewing damage.
+14 grub: A white, C-shaped beetle larva with brown head, in soil near plant roots.
+15 mole cricket: A tan, burrowing cricket with spade-like forelegs, emerging from soil.
+16 wireworm: A long, slender, yellow-brown wireworm crawling on soil surface.
+17 white margined moth: A small moth with white wing margins and dark central band resting on plant.
+18 black cutworm: A dark gray caterpillar looping on leaf surface at night.
+19 large cutworm: A thick-bodied gray-brown caterpillar feeding on leaf edges.
+20 yellow cutworm: A yellowish caterpillar with faint stripes, cutting seedlings at soil level.
+21 red spider: A cluster of tiny red spider mites on leaf underside, webbing visible.
+22 corn borer: A pale pink or cream-colored larva boring into corn stalks, frass at entry.
+23 army worm: A greenish caterpillar with stripes, moving in groups across foliage.
+24 aphids: A cluster of small pear-shaped aphids, green or black, feeding on tender shoots.
+25 Potosiabre vitarsis: A small dark beetle on leaf surface, oval body and short antennae.
+26 peach borer: A pinkish-brown larvae under peach tree bark, dark head and tapered body.
+27 english grain aphid: Pale yellow aphids clustered on wheat ears, exuding honeydew.
+28 green bug: A bright green stink bug on plant stem, shield-shaped body and piercing mouthparts.
+29 bird cherry-oat aphid: A gray-green aphid with dark dorsal spots on cereal leaves.
+30 wheat blossom midge: A tiny orange midge in wheat spikelets, causing sterile flowers.
+31 penthaleus major: A small mite aggregating on leaf surface, red-brown oval bodies.
+32 longlegged spider mite: A tiny green mite with long legs, forming colonies and fine webbing.
+33 wheat phloeothrips: A slender yellow thrips crawling inside wheat glumes.
+34 wheat sawfly: A greenish wasp-like larvae inside wheat stem, pale body with dark head.
+35 cerodonta denticornis: A small leaf-eating beetle with serrated antennae on leaf surface.
+36 beet fly: A small gray fly on beet leaf, larvae burrows visible as serpentine mines.
+37 flea beetle: A tiny shiny black beetle with large hind legs hopping on plant.
+38 cabbage army worm: A green caterpillar with white stripes feeding on cabbage leaves.
+39 beet army worm: A pale green caterpillar with dark spots crawling on beet foliage.
+40 Beet spot flies: Small dark flies hovering over beet leaves, leaving round feeding spots.
+41 meadow moth: A grayish moth resting on grass stems, wings folded tent-like.
+42 beet weevil: A small gray weevil with elongated snout on beet leaves.
+43 sericaorient alismots chulsky: A brown scarab beetle with oval body on plant.
+44 alfalfa weevil: A greenish weevil larva feeding inside alfalfa stems, leaving tunneled damage.
+45 flax budworm: A small brown caterpillar inside flax buds, buds hollowed out.
+46 alfalfa plant bug: A small pale green mirid bug on alfalfa leaf, feeding lesion visible.
+47 tarnished plant bug: A mottled brown tarnished bug on crop foliage, with beak inserted.
+48 Locustoidea: A large grasshopper on vegetation, long hind legs and extended wings.
+49 lytta polita: A slender metallic beetle with elongated body on plant stem.
+50 legume blister beetle: A soft-bodied, elongated gray beetle on legume flowers.
+51 blister beetle: A black or gray beetle with soft wing covers on plant surface.
+52 therioaphis maculata Buckton: A spotted yellow aphid cluster feeding on legume leaves.
+53 odontothrips loti: Tiny dark thrips on clover leaves, creating silvered patches.
+54 Thrips: Minute slender thrips among leaf hairs, leaving silvery feeding streaks.
+55 alfalfa seed chalcid: A tiny black chalcid wasp on alfalfa seed pods.
+56 Pieris canidia: A white butterfly with black spots resting on brussels sprout leaf.
+57 Apolygus lucorum: A small green mirid bug on cotton or fruit foliage.
+58 Limacodidae: A flattened slug-like caterpillar with stinging spines on leaf surface.
+59 Viteus vitifoliae: A yellow aphid on grapevine underside, clustered on veins.
+60 Colomerus vitis: A tiny eriophyid mite on grape leaf, causing blistered areas.
+61 Brevipalpus lewisi McGregor: A small reddish flat mite on fruit tree bark.
+62 oides decempunctata: A leaf beetle with ten black spots on yellow wing covers on foliage.
+63 Polyphagotars onemus latus: A small brown beetle with broad body on plant stem.
+64 Pseudococcus comstocki Kuwana: A white cottony mealybug mass on branch or leaf.
+65 parathrene regalis: A hairy brown caterpillar on trunks of forest trees.
+66 Ampelophaga: A large green sphinx moth on grapevine leaves.
+67 Lycorma delicatula: A colorful spotted lanternfly with black spots on white wings.
+68 Xylotrechus: A longhorn beetle with banded antennae on tree bark.
+69 Cicadella viridis: A bright green leafhopper hopping on grass stem.
+70 Miridae: A small plant bug on leaf, elongate body and pointed head.
+71 Trialeurodes vaporariorum: A whitefly cluster on greenhouse tomato leaf, white waxy wings.
+72 Erythroneura apicalis: A small red-and-white leafhopper on grape leaf surface.
+73 Papilio xuthus: A large yellow-and-black swallowtail butterfly perched on flower.
+74 Panonchus citri McGregor: A tiny citrus nematode visible as translucent worm in soil.
+75 Phyllocoptes oleiverus ashmead: A minute eriophyid mite causing russeting on olive leaves.
+76 Icerya purchasi Maskell: Clusters of white waxy scales (cottony cushion scale) on citrus bark.
+77 Unaspis yanonensis: A small armored scale insect forming circular cover on leaf.
+78 Ceroplastes rubens: A pink wax scale on ornamental plant stems.
+79 Chrysomphalus aonidum: A round armored scale on fruit tree bark with concentric rings.
+80 Parlatoria zizyphus Lucus: Small white scale insects on zizyphus leaves.
+81 Nipaecoccus vastalor: A spread-out mealybug colony with cottony filaments on plant.
+82 Aleurocanthus spiniferus: A rough citrus whitefly with black spots on wings.
+83 Tetradacus c Bactrocera minax: A robust fruit fly with dark thorax on orange.
+84 Dacus dorsalis(Hendel): A spotted fruit fly on tropical fruit.
+85 Bactrocera tsuneonis: A fruit fly with yellow and brown banded abdomen on citrus.
+86 Prodenia litura: A green looper caterpillar with white dorsal stripe on leaf.
+87 Adristyrannus: A small grasshopper-like insect on grass stem.
+88 Phyllocnistis citrella Stainton: A tiny leaf miner larva creating serpentine mines on citrus leaf.
+89 Toxoptera citricidus: Brown citrus aphid cluster on young shoots exuding honeydew.
+90 Toxoptera aurantii: Black citrus aphid group feeding on new leaves.
+91 Aphis citricola Vander Goot: Green citrus aphid on leaf veins with distorted growth.
+92 Scirtothrips dorsalis Hood: A yellow thrips on tea leaf, causing silver speckling.
+93 Dasineura sp: A gall midge larva inside plant gall, with curled leaf tissue.
+94 Lawana imitata Melichar: A large green planthopper on woody stem.
+95 Salurnis marginella Guerr: A small cicada-like insect sitting on trunk bark.
+96 Deporaus marginatus Pascoe: A snout beetle with curved rostrum on leaf edge.
+97 Chlumetia transversa: A brown moth larva feeding on pod surface.
+98 Mango flat beak leafhopper: A flat leafhopper with beak-like head on mango leaf.
+99 Rhytidodera bowrinii white: A large white click beetle on forest floor.
+100 Sternochetus frigidus: A dark weevil emerging from fruit pit, round body.
+101 Cicadellidae: A generic leafhopper perched on plant stem, colorful and small.

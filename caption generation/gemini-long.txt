@@ -1,0 +1,102 @@
+0 rice leaf roller - A rice leaf exhibiting a distinctive rolled-up or folded appearance, often tightly secured by silk threads, possibly revealing a pale green larva with a darker head capsule feeding within the protective shelter.
+1 rice leaf caterpillar - A caterpillar, typically robust, green or brownish, with a noticeable head, actively consuming the leaf blade of a rice plant, possibly showing chew marks on the foliage.
+2 paddy stem maggot - A rice plant with signs of damage to its stem, such as a "dead heart" (the central shoot wilts and dries), or a yellowish discoloration of young leaves, indicating the presence of a maggot burrowing inside the stem.
+3 asiatic rice borer - An adult moth, ranging from light brown to yellowish-brown, possibly with faint patterns on its wings, resting on a rice plant, or its pinkish-white larval stage seen by the presence of a distinct circular borer hole in a rice stem, often accompanied by frass (insect excrement) nearby.
+4 yellow rice borer - A yellow or straw-colored moth, or its yellowish-white caterpillar, easily identifiable by its tunneling activity within rice stems, leading to stunted growth or dead hearts.
+5 rice gall midge - A rice plant displaying abnormal, elongated, tube-like growths, often referred to as "silver shoots" or "onion shoots," emerging from the leaf sheaths, varying in color from silvery-white to purplish-pink.
+6 Rice Stemfly - A small, dark-bodied fly, potentially with iridescent wings, resting on a rice stem, or visual signs of its larval damage manifesting as distorted or discolored rice shoots.
+7 brown plant hopper - Numerous small, brown, winged (macropterous) or wingless (brachypterous) hopper insects densely aggregated at the base of rice plants, leading to characteristic "hopperburn" where plants turn yellow, then brown, and eventually collapse.
+8 white backed plant hopper - Small, dark-bodied hopper insects with a prominent, contrasting white stripe running longitudinally down the center of their back, typically clustered on rice stems and causing similar damage to brown plant hoppers.
+9 small brown plant hopper - Very small, less conspicuous brown hopper insects, often found at the base of rice plants, whose feeding can cause stunting and yellowing.
+10 rice water weevil - A dark, aquatic weevil, often found floating on the water surface in rice paddies or submerged at the base of rice plants, or its C-shaped larval stage causing root pruning.
+11 rice leafhopper - A small, agile, wedge-shaped hopper, often green, yellow, or straw-colored, actively moving or resting on the upper or lower surfaces of rice leaves, potentially causing stippling or honeydew.
+12 grain spreader thrips - A tiny, slender, dark-colored thrips insect, barely visible to the naked eye, found within developing grain heads, in leaf sheaths, or on florets, causing silvery streaks, distortion, or sterility of grains.
+13 rice shell pest - A pest, possibly a small beetle or a moth larva, found in association with harvested rice grains, within the husks, or in stored rice, with visible signs of feeding damage on the kernels.
+14 grub - A C-shaped, fleshy, white larva with a distinct brown head capsule and three pairs of thoracic legs, typically unearthed from soil, often near the roots of plants.
+15 mole cricket - A robust, brownish, subterranean cricket characterized by its large, powerful, shovel-like forelegs adapted for digging extensive burrows in soil, often found in turf or gardens.
+16 wireworm - A slender, cylindrical, hard-bodied larva, usually shiny and varying from yellowish to reddish-brown, found in soil, often boring into seeds, roots, or tubers.
+17 white margined moth - An adult moth distinguished by prominent white or lighter-colored bands or margins along the outer edges of its wings, providing a clear visual contrast.
+18 black cutworm - A plump, greasy-looking caterpillar, typically dull gray to black with faint longitudinal stripes or spots, that characteristically curls into a tight C-shape when disturbed, found at the soil line feeding on young plants.
+19 large cutworm - A noticeably large and robust caterpillar, often with camouflaged coloration to blend with soil or plant debris, found near the base of plants, capable of severing young stems.
+20 yellow cutworm - A plump caterpillar with a predominantly yellowish body coloration, possibly with subtle markings, typically found near the soil surface, causing damage to seedlings.
+21 red spider - Colonies of minute, reddish or brownish mites, often accompanied by fine silken webbing on the undersides of leaves, causing stippling, discoloration, or bronzing of foliage.
+22 corn borer - An adult moth, typically straw-colored with wavy lines, or its caterpillar (larva), which is pinkish-gray with small black spots, seen boring into corn stalks, ears, or tassels, creating tunnels and frass.
+23 army worm - A caterpillar, often with distinctive longitudinal stripes or a "Y" mark on its head, seen in large, marching aggregations, voraciously consuming foliage and sometimes defoliating entire fields.
+24 aphids - Dense clusters of small, soft-bodied, pear-shaped insects, varying widely in color (green, black, red, yellow), found on new growth, tender stems, or the undersides of leaves, often surrounded by sticky honeydew or sooty mold.
+25 Potosiabre vitarsis - The adult Potosia brevitarsis beetle, likely a type of scarab beetle, possibly metallic or iridescent, found on flowers or foliage.
+26 peach borer - An adult moth, often mimicking a wasp with clear wings, or evidence of its white, grub-like caterpillar boring into the trunks or branches of peach trees, indicated by gumming (sap exudation) mixed with frass.
+27 english grain aphid - A medium-sized, green aphid, often with a darker stripe down its back, specifically found on the leaves, stems, or developing grain heads of cereal crops like wheat, barley, or oats.
+28 green bug - A small, pale green aphid, sometimes with a darker stripe, found on grasses or small grain crops, causing distinct yellowing, reddening, or purpling of infested leaves.
+29 bird cherry-oat aphid - An aphid, varying in color from green to dark olive, found colonizing bird cherry trees in spring before migrating to oat and other cereal crops, where it feeds on leaves and developing grains.
+30 wheat blossom midge - A very small, delicate, orange or reddish midge fly, or evidence of its minute, orange larvae feeding within developing wheat florets, leading to shriveled or blank grains.
+31 penthaleus major - The winter grain mite, Penthaleus major, appearing as a small, dark mite with reddish-orange legs, often found on cool-season grasses and small grains, causing a silvery sheen to foliage.
+32 longlegged spider mite - A tiny mite with disproportionately long legs, typically found on the undersides of leaves, often accompanied by fine silken webbing.
+33 wheat phloeothrips - A slender, dark thrips insect, found within the leaf sheaths or developing heads of wheat, potentially causing discoloration or distortion.
+34 wheat sawfly - A slender, wasp-like insect, or its caterpillar-like larva that tunnels within wheat stems, often causing the stem to lodge (break) just below the head before harvest.
+35 cerodonta denticornis - A small fly from the genus Cerodonta, possibly seen on grasses or cereal crops, or its larval damage characterized by serpentine mines within the leaf tissue.
+36 beet fly - A small fly, or its larval damage seen as irregular mines or blotches between the epidermal layers of beet leaves.
+37 flea beetle - A small, oval-shaped beetle, often dark and shiny (metallic blue, green, or black), characterized by its strong jumping ability when disturbed, leaving numerous small, circular "shot holes" in leaves.
+38 cabbage army worm - A caterpillar, often green with stripes, feeding gregariously on the leaves of cabbage and other brassica crops, creating large holes.
+39 beet army worm - A caterpillar, typically green or brown with a distinctive black spot on its side, feeding on the leaves of beet and a wide range of other plants, often skeletonizing foliage.
+40 Beet spot flies - Flies or their larval damage visible as distinct spots, irregular mines, or discolored blotches on the leaves of beet plants.
+41 meadow moth - An adult moth commonly found in grassy areas or meadows, often with cryptic coloration, or evidence of its larval feeding damage on various herbaceous plants.
+42 beet weevil - A grayish-brown weevil with a short snout, found on beet plants, potentially causing characteristic notching or defoliation of leaves, or feeding damage to roots.
+43 sericaorient alismots chulsky - The beetle Serica orientalis motschulsky, likely a type of scarab beetle or chafer, possibly iridescent or hairy, found in soil or on plants, feeding on roots or foliage.
+44 alfalfa weevil - A small, brownish-gray weevil with a short, broad snout, found on alfalfa plants, causing characteristic "shot-hole" feeding damage to new leaflets, often in folded leaves.
+45 flax budworm - A caterpillar, often small and green, feeding specifically on the developing buds, flowers, or young seed pods of flax plants.
+46 alfalfa plant bug - A small, green or brownish plant bug, often found on alfalfa, whose feeding can cause distorted growth, stunting, or wilting of the plant tips and flowers.
+47 tarnished plant bug - A mottled brown and green plant bug with a distinctive yellowish triangular mark on its back, found on a wide range of plants, causing distorted growth, bud blasting, or aborted fruits.
+48 Locustoidea - A large, robust insect belonging to the superfamily of locusts and grasshoppers, often seen in open fields, capable of flight, and potentially present in large swarms.
+49 lytta polita - A blister beetle, Lytta polita, characterized by its elongated body and often metallic blue, green, or purplish coloration.
+50 legume blister beetle - A slender, soft-bodied blister beetle, often with varying metallic colors or stripes, found actively feeding on the foliage of legume crops, causing defoliation.
+51 blister beetle - A slender, soft-bodied beetle, often metallic or striped, which may exude a defensive chemical (cantharidin) that causes blistering upon contact.
+52 therioaphis maculata Buckton - The spotted alfalfa aphid, Therioaphis maculata Buckton, a small, yellowish-green aphid characterized by distinct rows of dark spots on its back, found on alfalfa leaves.
+53 odontothrips loti - A thrips insect, Odontothrips loti, typically found on flowers or foliage, causing stippling or distortion.
+54 Thrips - A minute, slender insect with fringed wings (though often difficult to see), found in flowers, on leaves, or in tight crevices, causing silvery feeding scars, distorted growth, or premature flower drop.
+55 alfalfa seed chalcid - A tiny, black, wasp-like insect, often found in association with alfalfa seeds that appear shriveled, discolored, or hollowed out due to larval feeding.
+56 Pieris canidia - The Indian Cabbage White butterfly, a medium-sized butterfly with white wings and characteristic black spots, or its green, velvety caterpillar found on cruciferous plants.
+57 Apolygus lucorum - The green mirid bug, Apolygus lucorum, a small, green plant bug found on various plants, causing feeding damage that leads to deformed leaves or fruits.
+58 Limacodidae - A slug moth caterpillar, distinctly slug-like in appearance, often brightly colored with prominent, sometimes stinging, tubercles or hairs, moving slowly on leaves.
+59 Viteus vitifoliae - Grape phylloxera, a small, aphid-like insect that forms characteristic galls (blister-like swellings) on the leaves of grapevines, or causes swellings on the roots.
+60 Colomerus vitis - The grape erineum mite, a microscopic mite whose feeding causes distinctive fuzzy, blister-like patches (erinea) of abnormal leaf tissue to form on the upper surface of grape leaves.
+61 Brevipoalpus lewisi McGregor - The flat mite Brevipoalpus lewisi McGregor, a very small, flattened, reddish mite found on the undersides of leaves, causing discoloration or bronzing.
+62 oides decempunctata - The beetle Oides decempunctata, likely a leaf beetle, characterized by its oval shape and often brightly colored elytra with distinct markings, found feeding on foliage.
+63 Polyphagotars onemus latus - The broad mite, Polyphagotars onemus latus, a microscopic mite that causes severe distortion, bronzing, curling, or stunting of new growth on a wide range of plants.
+64 Pseudococcus comstocki Kuwana - Comstock mealybug, a soft-bodied insect covered in white, mealy wax, often forming dense, cottony masses in leaf axils, on stems, or on fruit, with visible honeydew.
+65 parathrene regalis - A clearwing moth, Parathrene regalis, mimicking a wasp or hornet due to its clear wings and slender body, often found near its host trees.
+66 Ampelophaga - A large hawkmoth from the genus Ampelophaga, likely with a robust, streamlined body and narrow, pointed wings, often seen hovering over flowers or at rest.
+67 Lycorma delicatula - The distinctive spotted lanternfly, an invasive planthopper, recognizable by its gray forewings with black spots, and striking red hindwings visible when in flight or disturbed, often found aggregated on tree trunks.
+68 Xylotrechus - A longhorn beetle from the genus Xylotrechus, typically characterized by a cylindrical body, long antennae, and often distinct patterns of bands or spots on its elytra, found on wood.
+69 Cicadella viridis - The green leafhopper, Cicadella viridis, a bright green, wedge-shaped insect commonly found on various herbaceous plants and grasses, often jumping or flying quickly when approached.
+70 Miridae - A plant bug from the family Miridae, usually small to medium-sized, oval-shaped, with a distinct head, prominent eyes, and often a triangular scutellum, found on diverse plants.
+71 Trialeurodes vaporariorum - The greenhouse whitefly, a tiny, winged insect with white, powdery wings, typically found in dense clusters on the undersides of leaves, flying up in a cloud when disturbed.
+72 Erythroneura apicalis - A leafhopper, Erythroneura apicalis, often light-colored with subtle markings, found on the undersides of leaves, causing characteristic stippling or whitish discoloration due to feeding.
+73 Papilio xuthus - The Asian Swallowtail butterfly, a large and striking butterfly with yellow and black patterns and prominent "tails" on its hindwings, or its caterpillar which initially mimics bird droppings.
+74 Panonchus citri McGregor - The citrus red mite, Panonchus citri McGregor, appearing as tiny, oval, reddish mites moving slowly on citrus leaves and fruit, causing widespread stippling or bronzing of the surface.
+75 Phyllocoptes oleiverus ashmead - The citrus rust mite, Phyllocoptes oleiverus ashmead, a microscopic, wedge-shaped mite whose feeding causes a rusty or silvery discoloration on citrus fruit and a bronzing on leaves.
+76 Icerya purchasi Maskell - The cottony cushion scale, a large, distinctive scale insect with a prominent, white, fluted, cottony egg sac protruding from its body, typically found on citrus branches and twigs.
+77 Unaspis yanonensis - The arrow-headed scale, Unaspis yanonensis, a small, dark, elongated scale insect with a shape resembling an arrowhead, found encrusted on citrus leaves and twigs.
+78 Ceroplastes rubens - The red wax scale, Ceroplastes rubens, a rounded, dome-shaped, reddish, waxy scale insect often found adhering to citrus branches and leaves.
+79 Chrysomphalus aonidum - The Florida red scale, Chrysomphalus aonidum, a circular, flat, reddish-brown scale insect with a distinct nipple-like center, found on citrus leaves, fruit, and twigs.
+80 Parlatoria zizyphus Lucus - The black parlatoria scale, Parlatoria zizyphus Lucus, a small, dark, elongated scale insect with a distinctive white fringe around its margin, primarily infesting citrus fruit and leaves.
+81 Nipaecoccus vastalor - The spherical mealybug, Nipaecoccus vastalor, a large, almost perfectly round mealybug covered in dense white wax, found on the stems and branches of various plants.
+82 Aleurocanthus spiniferus - The orange spiny whitefly, Aleurocanthus spiniferus, appearing as a small, dark-bodied whitefly with visible spines on its wings and body, often found on the undersides of citrus leaves.
+83 Tetradacus c Bactrocera minax - A large fruit fly, Tetradacus c Bactrocera minax, with distinctive wing patterns, typically observed on or near citrus fruit, indicating potential larval infestation within the fruit.
+84 Dacus dorsalis(Hendel) - The oriental fruit fly, Dacus dorsalis (Hendel), a yellowish-brown fruit fly with characteristic "F-shaped" wing patterns, found on a wide variety of ripe fruits.
+85 Bactrocera tsuneonis - The Japanese orange fly, Bactrocera tsuneonis, a fruit fly species specifically associated with damage to citrus fruits, where its larvae develop within the pulp.
+86 Prodenia litura - The common cutworm or tobacco cutworm, a medium to large caterpillar with a variable color pattern (often dark with stripes), found feeding on a wide range of crops, causing defoliation.
+87 Adristyrannus - The insect Adristyrannus, potentially a type of fly or ant with a predatory or specific behavioral characteristic implied by its name.
+88 Phyllocnistis citrella Stainton - Citrus leafminer damage, uniquely identifiable by the distinctive serpentine (winding, silvery, translucent) trails or mines created by a tiny larva feeding just beneath the epidermal layer of young citrus leaves.
+89 Toxoptera citricidus - The brown citrus aphid, a dark brown to black aphid, typically found in dense, sticky colonies on new citrus growth, causing severe leaf curling, distortion, and sooty mold development.
+90 Toxoptera aurantii - The black citrus aphid, a dark brown to black aphid, similar to T. citricidus but often found on a broader range of plants in addition to citrus, causing similar damage.
+91 Aphis citricola Vander Goot - The spirea aphid or green citrus aphid, a small, light green aphid, highly polyphagous and common on citrus and a wide range of other plants, causing leaf distortion and stunting.
+92 Scirtothrips dorsalis Hood - The chili thrips or strawberry thrips, a tiny, pale yellow to orange thrips, causing severe stippling, bronzing, distortion, and browning of leaves, flowers, and fruits, especially on new growth.
+93 Dasineura sp - A gall midge from the genus Dasineura, whose presence is typically indicated by specific, often abnormal, plant galls (swellings or distortions) forming on leaves, stems, or flower buds.
+94 Lawana imitata Melichar - The planthopper Lawana imitata Melichar, a distinctive planthopper species, possibly characterized by unique wing venation or patterns, found on various host plants.
+95 Salurnis marginella Guerr - The planthopper Salurnis marginella Guerr, a planthopper species, often found on the stems or undersides of leaves, potentially with subtle markings.
+96 Deporaus marginatus Pascoe - The leaf-rolling weevil Deporaus marginatus Pascoe, a small weevil that is identifiable by its characteristic behavior of cutting and tightly rolling a leaf to create a protective, cigar-shaped case for its egg and developing larva.
+97 Chlumetia transversa - The mango shoot borer moth, or its larval damage evidenced by wilting, tunneling, or frass in young mango shoots and terminals, leading to dieback.
+98 Mango flat beak leafhopper - A leafhopper species characterized by a distinctly flattened, somewhat pointed head, typically found on mango trees, possibly causing leaf distortion, stippling, or honeydew.
+99 Rhytidodera bowrinii white - The longhorn beetle Rhytidodera bowringii, a large, robust beetle often with very long antennae, possibly found resting on tree trunks or branches.
+100 Sternochetus frigidus - The mango pulp weevil, Sternochetus frigidus, a small, dark weevil whose presence is indicated by distinct damage inside the mango fruit, especially tunneling or discoloration near the seed.
+101 Cicadellidae - A leafhopper from the family Cicadellidae, typically small, slender, and wedge-shaped insects, often brightly colored or patterned, that jump or fly readily when disturbed, found on leaves and stems.

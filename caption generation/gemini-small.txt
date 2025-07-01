@@ -1,0 +1,102 @@
+1 rice leaf roller - A rice leaf with a rolled-up section, possibly containing a larva.
+2 rice leaf caterpillar - A caterpillar feeding on or resting on a rice leaf.
+3 paddy stem maggot - Damage to a paddy stem, possibly a discolored or wilting stem, due to a maggot, or the maggot itself.
+4 asiatic rice borer - A moth, possibly with a visible borer hole in a rice stem, or the borer larva inside a stem.
+5 yellow rice borer - A yellow moth, or its larval stage causing damage to rice plants.
+6 rice gall midge - A rice plant with characteristic galls (abnormal growths) caused by the midge.
+7 Rice Stemfly - A fly near or on a rice stem, or damage to the stem caused by the fly's larvae.
+8 brown plant hopper - A small, brown hopper insect on a rice plant.
+9 white backed plant hopper - A small hopper insect with a distinctive white stripe on its back, on a rice plant.
+10 small brown plant hopper - A small, brown hopper insect on a rice plant.
+11 rice water weevil - A weevil on a rice plant, possibly near water, or its larval damage to roots.
+12 rice leafhopper - A leafhopper on a rice leaf.
+13 grain spreader thrips - A tiny, slender thrips insect on grain or a plant.
+14 rice shell pest - A pest associated with rice grains or husks, possibly a beetle or its damage.
+15 grub - A C-shaped, whitish larva, typically found in soil.
+16 mole cricket - A brown, burrowing cricket with shovel-like forelegs.
+17 wireworm - A slender, hard-bodied, yellowish-brown larva, typically in soil.
+18 white margined moth - A moth with white margins on its wings.
+19 black cutworm - A dull-colored, plump caterpillar that curls up when disturbed.
+20 large cutworm - A large, plump caterpillar, possibly with camouflaged coloration.
+21 yellow cutworm - A yellowish, plump caterpillar.
+22 red spider - Tiny, reddish mites, often with fine webbing on plants.
+23 corn borer - A moth, or its larval stage (caterpillar) boring into a corn stalk or ear.
+24 army worm - A caterpillar with distinctive stripes, often seen in large groups.
+25 aphids - Small, soft-bodied insects clustered on plant stems or leaves.
+26 Potosiabre vitarsis - The Potosiabre vitarsis insect, likely a beetle, on a plant.
+27 peach borer - A moth, or its larval stage boring into a peach tree trunk or branch.
+28 english grain aphid - A green aphid on a grain plant.
+29 green bug - A small, green aphid on a plant.
+30 bird cherry-oat aphid - An aphid, possibly green or dark, on a bird cherry or oat plant.
+31 wheat blossom midge - A small midge fly, or wheat florets damaged by its larvae.
+32 penthaleus major - The mite Penthaleus major, likely on a plant.
+33 longlegged spider mite - A mite with noticeably long legs, possibly with webbing.
+34 wheat phloeothrips - A thrips insect on wheat.
+35 wheat sawfly - A sawfly insect on a wheat plant, or damage to wheat stems.
+36 cerodonta denticornis - The insect Cerodonta denticornis, possibly a fly, on a plant.
+37 beet fly - A fly near or on a beet plant, or leaf damage caused by its larvae.
+38 flea beetle - A small, jumping beetle with a metallic sheen, and characteristic shot-hole damage on leaves.
+39 cabbage army worm - A caterpillar feeding on cabbage leaves.
+40 beet army worm - A caterpillar feeding on beet leaves or other plants.
+41 Beet spot flies - Flies causing spots or damage on beet leaves.
+42 meadow moth - A moth found in meadows, or its larval damage to plants.
+43 beet weevil - A weevil on a beet plant, or damage to beet roots/leaves.
+44 sericaorient alismots chulsky - The beetle Serica orientalis motschulsky, possibly a scarab beetle.
+45 alfalfa weevil - A weevil on an alfalfa plant, or characteristic leaf damage.
+46 flax budworm - A caterpillar feeding on flax buds or flowers.
+47 alfalfa plant bug - A plant bug on an alfalfa plant, or its feeding damage.
+48 tarnished plant bug - A mottled brown plant bug on various plants.
+49 Locustoidea - A locust or a grasshopper.
+50 lytta polita - The beetle Lytta polita, likely a blister beetle.
+51 legume blister beetle - A blister beetle on a legume plant.
+52 blister beetle - A slender beetle that may exude a blistering fluid.
+53 therioaphis maculata Buckton - The spotted alfalfa aphid, Therioaphis maculata Buckton, on an alfalfa plant.
+54 odontothrips loti - The thrips insect Odontothrips loti on a plant.
+55 Thrips - A tiny, slender insect, possibly with fringed wings, on a plant.
+56 alfalfa seed chalcid - A small wasp-like insect, or damaged alfalfa seeds.
+57 Pieris canidia - The Indian Cabbage White butterfly, or its caterpillar.
+58 Apolygus lucorum - The green mirid bug, Apolygus lucorum, on a plant.
+59 Limacodidae - A slug moth caterpillar, often with stinging hairs.
+60 Viteus vitifoliae - Grape phylloxera, an aphid-like insect, on grape leaves or roots.
+61 Colomerus vitis - The grape erineum mite, causing fuzzy patches on grape leaves.
+62 Brevipoalpus lewisi McGregor - The flat mite Brevipoalpus lewisi McGregor on a plant.
+63 oides decempunctata - The beetle Oides decempunctata, likely a leaf beetle.
+64 Polyphagotars onemus latus - The broad mite, Polyphagotars onemus latus, on a plant, possibly causing distorted growth.
+65 Pseudococcus comstocki Kuwana - Comstock mealybug, a white, waxy insect, on a plant.
+66 parathrene regalis - The clearwing moth Parathrene regalis, possibly mimicking a wasp.
+67 Ampelophaga - A hawkmoth from the genus Ampelophaga, likely a large moth.
+68 Lycorma delicatula - The spotted lanternfly, an invasive planthopper.
+69 Xylotrechus - A longhorn beetle from the genus Xylotrechus, often with striped patterns.
+70 Cicadella viridis - The green leafhopper, Cicadella viridis, a bright green insect.
+71 Miridae - A plant bug from the family Miridae, typically small and oval-shaped.
+72 Trialeurodes vaporariorum - The greenhouse whitefly, a tiny white insect on the underside of leaves.
+73 Erythroneura apicalis - The leafhopper Erythroneura apicalis on a plant.
+74 Papilio xuthus - The Asian Swallowtail butterfly, or its caterpillar.
+75 Panonchus citri McGregor - The citrus red mite, Panonchus citri McGregor, on citrus leaves.
+76 Phyllocoptes oleiverus ashmead - The citrus rust mite, Phyllocoptes oleiverus ashmead, causing bronzing on citrus fruit/leaves.
+77 Icerya purchasi Maskell - The cottony cushion scale, a waxy, white scale insect on citrus or other plants.
+78 Unaspis yanonensis - The arrow-headed scale, Unaspis yanonensis, on citrus leaves or branches.
+79 Ceroplastes rubens - The red wax scale, Ceroplastes rubens, a reddish, waxy scale insect.
+80 Chrysomphalus aonidum - The Florida red scale, Chrysomphalus aonidum, a circular, reddish-brown scale insect.
+81 Parlatoria zizyphus Lucus - The black parlatoria scale, Parlatoria zizyphus Lucus, a dark scale insect on citrus.
+82 Nipaecoccus vastalor - The spherical mealybug, Nipaecoccus vastalor, a round, white mealybug.
+83 Aleurocanthus spiniferus - The orange spiny whitefly, Aleurocanthus spiniferus, a black whitefly with spines.
+84 Tetradacus c Bactrocera minax - A fruit fly, Tetradacus c Bactrocera minax, likely on citrus fruit.
+85 Dacus dorsalis(Hendel) - The oriental fruit fly, Dacus dorsalis (Hendel), on fruit.
+86 Bactrocera tsuneonis - The Japanese orange fly, Bactrocera tsuneonis, on citrus fruit.
+87 Prodenia litura - The common cutworm or tobacco cutworm, a caterpillar.
+88 Adristyrannus - The insect Adristyrannus, possibly a type of fly or ant.
+89 Phyllocnistis citrella Stainton - Citrus leafminer damage, characterized by winding silvery trails on citrus leaves.
+90 Toxoptera citricidus - The brown citrus aphid, a dark aphid on citrus plants.
+91 Toxoptera aurantii - The black citrus aphid, a dark aphid on citrus plants.
+92 Aphis citricola Vander Goot - The spirea aphid or green citrus aphid, a green aphid on citrus or other plants.
+93 Scirtothrips dorsalis Hood - The chili thrips or strawberry thrips, a tiny, yellowish thrips.
+94 Dasineura sp - A gall midge from the genus Dasineura, possibly with plant galls.
+95 Lawana imitata Melichar - The planthopper Lawana imitata Melichar.
+96 Salurnis marginella Guerr - The planthopper Salurnis marginella Guerr.
+97 Deporaus marginatus Pascoe - The leaf-rolling weevil Deporaus marginatus Pascoe, or its characteristic leaf rolls.
+98 Chlumetia transversa - The mango shoot borer moth, or its larval damage to mango shoots.
+99 Mango flat beak leafhopper - A leafhopper with a flattened head, on a mango tree.
+100 Rhytidodera bowrinii white - The longhorn beetle Rhytidodera bowringii, possibly on a tree trunk.
+101 Sternochetus frigidus - The mango pulp weevil, Sternochetus frigidus, or damaged mango fruit.
+102 Cicadellidae - A leafhopper from the family Cicadellidae, typically small and wedge-shaped.
