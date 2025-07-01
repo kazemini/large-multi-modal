@@ -1,0 +1,305 @@
+**1. Rice Leaf Roller (Cnaphalocrocis medinalis)**
+Larvae pale yellow‑green with brown head, roll rice leaves longitudinally using silk, creating tubular folds. Inside, feeding scrapes green tissue, leaving translucent white streaks. Damaged leaves dry and may cause up to 50% yield loss. Key visual cues: rolled leaves with silk bindings and green larva visible at fold.
+
+**2. Rice Leaf Caterpillar (Cnaphalocrocis poeyalis)**
+A smaller rice leaffolder (20 mm wingspan). Larvae fold leaves similarly, scraping surface tissue. Adults are yellowish with wavy wing patterns. Distinguish by slightly larger wingspan and specific markings. Look for folded leaves with yellow‐brown adult pattern.
+
+**3. Paddy Stem Maggot (Chlorops oryzae)**
+Tiny yellow‑cream maggots that bore into seedling stems and reach the growing point. Symptoms: “dead heart” in young plants (central tiller wilting/yellowing), punctured base, reduced height and tillering. May cause 20‑50% yield loss. Look for small larvae inside hollow stems and stunted growth.
+
+**4. Asiatic Rice Borer (Scirpophaga incertulas)**
+Creamy‑white larva with brown head that bores stems. Symptoms: “dead heart” at vegetative stage, “white heads” (empty panicles) at reproductive stage. Visual signs include holes in stems, frass, and hollow internodes. Adults are ochreous-brown moths.
+
+**5. Yellow Rice Borer (Scirpophaga incertulas)**
+Same as above (species identical). Differentiation based on coloration or local naming. The descriptive prompt is identical to Asiatic rice borer.
+
+**6. Rice Gall Midge (Orseolia oryzae)**
+Minute midge whose larvae induce “silver shoots” or galls at growing points. Plants form gall structures – swollen, whitish, hollow shoots lacking panicles. Key diagnostic: tube-like galls (7–10 cm), absence of grain, adults hidden inside.
+
+**7. Rice Stemfly (Hydrellia spp.)**
+Small fly larvae tunnel in leaf sheaths and stems, causing brown lesions and dead tillers. Plants exhibit wilting and fewer tillers. Adults resemble small houseflies. Look for sheath discoloration and emerging larvae tunnels.
+
+**8. Brown Plant Hopper (Nilaparvata lugens)**
+Brown sap-sucking insect (\~5 mm). Heavy infestations cause “hopperburn” (brown, dried plants), stunting, and can vector grassy stunt and ragged stunt viruses. Visual cues: clustered hoppers on stems, yellowing shoots.
+
+**9. White‑Backed Plant Hopper (Sogatella furcifera)**
+Distinctive white band along wings/abdomen. Feeds on rice sap, causing yellowing, weakened plants, and can transmit viruses. Look for hopping movement, white dorsal stripe, and honeydew.
+
+**10. Small Brown Plant Hopper (Laodelphax striatellus)**
+Small (3–4 mm), brown sap-feeder. Symptoms: yellowing, stunting, and transmission of stripe and black-streaked dwarf viruses. Adults hop when disturbed. Look for uniform brown body and hopping behavior.
+
+**11. Rice Water Weevil (Lissorhoptrus oryzophilus)**
+Dark brown weevil (4–7 mm) with long snout. Adults feed on leaf margins causing characteristic “scalloped” edges. Larvae feed on roots underwater. Look for notched leaf edges and larvae tunneling roots.
+
+**12. Rice Leafhopper (Nephotettix spp.)**
+Green leafhopper (\~4 mm). Sucks sap, causing yellow or white flecks, hopperburn, and transmits tungro virus. Visual: bright green body with black spots on head; often jumps. Diagnostic sign: stippling on leaves.
+
+**13. Grain Spreader Thrips (Taeniothrips spp.)**
+Tiny slender insects. Cause silvering or straw discoloration and tiny dark specks of excrement. Damage: scarring on leaf and grain surfaces. Look for silvery sheen and visible black fecal spots.
+
+**14. Rice Shell Pest**
+Adults are small beetles or weevils (\~3–5 mm) feeding on rice grain husks. Look for irregular holes, frass on spikelets, and partial grain loss. Distinct from fungal smut by presence of exoskeleton remains.
+
+**15. Grub (scarab beetle larvae)**
+C‑shaped white larvae under soil feeding on roots. Indicators: wilting, poor tillering, visible grubs in soil. Presence of large white larvae underground.
+
+**16. Mole Cricket (Gryllotalpidae)**
+Fossorial insect with muscular forelegs. Creates tunnels in soil, uprooting seedlings. Visual: burrow mounds, plant lodging, large mole-like insect when uncovered.
+
+**17. Wireworm (Elateridae larvae)**
+Thin, yellow-brown wriggling larvae in soil feeding on seeds/roots. Damage: poor germination, stunted plants. Look for shriveled seedlings and larvae in soil.
+
+**18. White‑Margined Moth (Herpetogramma spp.)**
+Larvae greenish caterpillars with faint striping feed on rice foliage, skeletonizing leaves. Adults are small moths with distinct white margins on dark forewings. Key cue: white border on wings, leaf skeletonization pattern.
+
+**19. Black Cutworm (Agrotis ipsilon)**
+Greyish-brown caterpillar \~5 cm, feeds at night, cuts seedlings at base. Look for cut-off plants at soil level and large grey larva.
+
+**20. Large Cutworm**
+Similar to black cutworm; differentiate by size and coloration. Visual: larger cutworm species cutting plants. Provide imagery cues.
+
+**21. Yellow Cutworm (Agrotis segetum)**
+Similar to black cutworm but paler, yellow‑brown caterpillar (\~4–5 cm), feeding at night. Cuts young plants at base. Look for severed seedlings and large yellowish larvae curled under soil surface.
+
+**22. Red Spider Mite (Tetranychus urticae)**
+Tiny red mites, often in clusters under leaves. Cause stippling, fine webbing, leaf yellowing and bronzing. Look for fine webs and clusters of red/orange dots on undersides.
+
+**23. Corn Borer (Ostrinia nubilalis)**
+Larvae light tan to dark brown (\~2.5 cm), bore into maize and rice stems. Symptoms include frass-speckled holes, broken stalks. Adults are buff-colored moths with wavy lines on wings.
+
+**24. Army Worm (Spodoptera spp.)**
+Greenish to brown caterpillars with stripe pattern (\~4–5 cm). Feed dramatically, defoliating leaves from edges inward. Look for synchronous feeding damage on many plants and caterpillars in group.
+
+**25. Aphids (Aphididae)**
+Small pear-shaped insects (green, yellow or black), cluster on new shoots and leaf undersides. Mouthparts pierce sap, leading to curling, yellowing, stunting and honeydew secretion with sooty mold. Diagnostic: clusters and presence of honeydew.
+
+**26. Potosiabre vitarsis (tentative)**
+Tentative: small piercing-sucking insect, slender body, feeds on sap causing stippling and leaf distortion.
+
+**27. Peach Borer (Synanthedon exitiosa)**
+Clearwing moth larva (\~2 cm) bores under bark of fruit trees. Symptoms: gummosis, gummy ooze around entry holes. Look for frass mixed with sap ("gum"), small holes in trunk.
+
+**28. English Grain Aphid (Sitobion avenae)**
+Green to brown aphid (\~2–3 mm) clusters on wheat/rice heads. Causes curled leaves, honeydew and black sooty mold. Diagnostic: aphid masses on ear head.
+
+**29. Green Bug (Schizaphis graminum)**
+Green aphid (\~2 mm) with dark dorsal stripe that injects toxin, causing chlorotic bands and necrotic patches on leaves. Look for green insects and toxin rings on leaves.
+
+**30. Bird Cherry‑Oat Aphid (Rhopalosiphum padi)**
+Dark-bodied aphid with pale legs, \~2–3 mm; vectors barley yellow dwarf virus. Symptoms: yellow streaks, vein clearing. Diagnostic: dark, pear-shaped aphids clustered on stems and underside.
+
+**31. Wheat Blossom Midge (Sitodiplosis mosellana)**
+Adults are small orange midges; larvae (1.5–2 mm) feed on developing wheat and rice kernels, causing shriveled or aborted grains (“blasted ears”). Key signs: empty florets, tiny larvae within florets, and slight reddening near grain tips.
+
+**32. Penthaleus Major**
+A species of earth mite (\~0.5 mm), red to brown, feeding on root and lower stem tissue of seedlings. Causes stunted seedlings, yellow patches, and fine stippling near soil line. Look for tiny mites in soil or leaf fold.
+
+**33. Long-Legged Spider Mite (Tetranychus evansi or similar)**
+Larger than red spider mite, orange to red, long legs. Webbing under leaves severely restricts photosynthesis. Look for heavy webbing, bronzed leaves, and mobile red mites.
+
+**34. Wheat Phloeothrips (Haplothrips tritici)**
+Dark brown thrips (\~2 mm), feeding within wheat sheaths and glumes. Symptoms include blackening of heads, shriveled grains, and dark fecal specks. Diagnostic: thrips in florets and black frass.
+
+**35. Wheat Sawfly (Cephus pygmaeus)**
+Creamy‑yellow larva (\~15 mm) lives in stem; cut stems break at nodes causing lodging. Sawdust-like frass at base of stem. Look for hollowed stems and larval presence inside.
+
+**36. Cerodonta denticornis**
+A treehopper species with horn-like pronotum. Feeds on stems by piercing-sucking, causing leaf curling, yellowing and stunted branches. Distinctive shape with horned back. Look for unusual hump-shaped insect on stems.
+
+**37. Beet Fly (Pegomya betae)**
+Adults are grey flies; larvae are maggots (\~5 mm) that mine in beet leaves causing blotch mines. Look for irregular translucent blotches with frass trails inside leaf. Leaf mining visible as pale patches.
+
+**38. Flea Beetle (Chrysomelidae family)**
+Small jumping beetles (\~2–4 mm), often metallic. Feed on foliage leaving round “shot holes.” Diagnostic: small circular holes and rapid beetle jump when disturbed.
+
+**39. Cabbage Army Worm (Hellula hydralis or Plutella xylostella)**
+Greenish caterpillars with stripes (\~2–3 cm) feed on crucifer leaves, causing windowpaning and holes. Look for larvae and irregular feeding damage.
+
+**40. Beet Army Worm (Spodoptera exigua)**
+Caterpillars greenish with dorsal stripes (\~3–4 cm); feed in groups creating skeletonization on leaves and fruit. Look for clustered larvae, frass, and defoliation patterns.
+
+**41. Beet Spot Flies (Pegomyia hyoscyami group)**
+Small gray flies whose larvae tunnel into beet leaves, creating irregular spots or blotches. Damaged leaves show translucent areas, with visible larval mines and dark frass lines inside.
+
+**42. Meadow Moth (Loxostege sticticalis)**
+Adult moths with beige wings marked by dark bands. Larvae feed on various crops, especially legumes and grains, causing skeletonization and webbing. Look for clustered larvae and lacy leaf damage.
+
+**43. Beet Weevil (Bothynoderes punctiventris)**
+Grayish weevil (\~7 mm) with long snout. Larvae feed on roots; adults chew U-shaped notches in leaves. Key signs: leaf margin damage and root rot due to larval tunneling.
+
+**44. Sericaorientalis motschulsky**
+Medium-sized scarab beetle with brownish body, active at night. Feeds on leaves of various plants, especially fruit trees. Look for symmetrical leaf holes and shiny beetle on foliage.
+
+**45. Alfalfa Weevil (Hypera postica)**
+Small brown weevil (\~3 mm); larvae are green with black heads. Feed on buds and young leaves, causing skeletonization. Diagnostic: leaf curling and tiny green larvae.
+
+**46. Flax Budworm (Heliothis ononis)**
+Greenish caterpillars with faint stripes. Target flower buds and young flax capsules, causing failure to seed. Look for small caterpillars boring into buds.
+
+**47. Alfalfa Plant Bug (Adelphocoris lineolatus)**
+Green true bug (\~5–6 mm) with long legs and antennae. Feeds by piercing stems and buds, causing distortion, black spots on stems, and aborted flowers.
+
+**48. Tarnished Plant Bug (Lygus lineolaris)**
+Brown, mottled bug (\~5 mm) with yellow triangle on back. Pierces flowers and shoots, causing bud abortion and blackened tips. Look for distorted stems and presence of mobile bugs.
+
+**49. Locustoidea (Locust Group)**
+Includes grasshoppers and locusts. Large-bodied (2–7 cm), chewing insects that cause massive defoliation. Look for chewed leaves, strong hind legs, and swarming in severe cases.
+
+**50. Lytta polita (Blister Beetle)**
+Long soft-bodied beetle, dark with possible metallic sheen. Releases cantharidin toxin. Feeds on foliage and flowers. Look for wilting, flowers with ragged edges, and presence of beetles.
+
+**51. Legume Blister Beetle (Epicauta spp.)**
+Soft-bodied, black or striped beetles. Feed on legumes, causing flower and leaf destruction. Larvae parasitize grasshopper eggs. Look for intense feeding and beetle presence during bloom.
+
+**52. Blister Beetle (General)**
+Often black, gray or striped. Toxic (cantharidin); clusters on flowers and leaves. Cause defoliation, especially during blooming. Diagnostic: intense feeding and beetles with narrow thorax.
+
+**53. Therioaphis maculata Buckton**
+The spotted alfalfa aphid is pale yellow with rows of black dorsal spots. Causes yellowing, stunting, honeydew, and sooty mold. Distinct spots and clustering on stems are diagnostic.
+
+**54. Odontothrips loti**
+Slender dark thrips (\~1–2 mm) with fringed wings. Feed on flowers and leaves, causing silvering, distortion, and presence of black fecal specks. Often hide inside buds.
+
+**55. Thrips (General)**
+Tiny (1–2 mm), dark or translucent insects. Scrape plant surfaces, causing silvered leaves, curling, and speckled necrosis. Silvery sheen and minute size are visual clues.
+
+**56. Alfalfa Seed Chalcid (Bruchophagus roddi)**
+Tiny wasp (\~1 mm) lays eggs in alfalfa seeds. Larvae consume the seed from inside. Seed pods look intact but are hollow. Diagnostic: reduced seed weight, holes in mature pods.
+
+**57. Pieris canidia (Indian Cabbage White)**
+White butterfly with black tips. Larvae are green caterpillars feeding on crucifers. Defoliation and leaf skeletonization common. Watch for caterpillars on undersides and fluttering adults.
+
+**58. Apolygus lucorum**
+Small green bug (\~5–6 mm), generalist feeder. Causes flower drop, stem blackening, and leaf edge necrosis. Look for mobile bugs and small necrotic spots.
+
+**59. Limacodidae (Slug Caterpillars)**
+Larvae resemble slugs—flattened with stinging spines. Feed on leaf tissue, leaving holes and sometimes urticating hairs. Watch for flattened, colorful caterpillars and small holes.
+
+**60. Viteus vitifoliae (Grape Phylloxera)**
+Tiny aphid-like pest affecting grapevines. Forms root galls or yellowing leaf nodules. Look for leaf blisters and root swellings with reduced vine vigor.
+
+**61. Colomerus vitis (Grape Rust Mite)**
+Microscopic mite (\~0.1 mm), invisible to naked eye. Causes rust-colored patches, leaf curling, and early defoliation on grapevines. Look for rusty bronze discoloration, especially on young leaves.
+
+**62. Brevipalpus lewisi McGregor (Flat Mite)**
+Tiny red-orange mite (\~0.2 mm), often near citrus and ornamental plants. Causes silvering, leaf necrosis, and scab-like marks. Distinctive flat, oval body with erratic feeding spots.
+
+**63. Oides decempunctata**
+Small beetle with ten black spots on yellow elytra. Feeds on legume foliage. Look for spotted adults and circular feeding damage on leaves.
+
+**64. Polyphagotarsonemus latus (Broad Mite)**
+Tiny mites (\~0.2 mm) that feed on tender leaves and shoot tips. Cause curling, stunting, and shiny bronzing. Damage often misdiagnosed as virus due to distorted growth.
+
+**65. Pseudococcus comstocki Kuwana (Comstock Mealybug)**
+White, wax-covered insect producing cottony masses. Feeds on phloem, causes yellowing, deformation, and sooty mold from honeydew. Diagnostic: waxy filaments and clustering in crevices.
+
+**66. Parathrene regalis**
+Clearwing moth resembling wasps. Larvae bore into trunks of fruit trees, especially citrus. Damage includes gummosis and sawdust-like frass near holes. Look for oozing sap and entry points.
+
+**67. Ampelophaga (e.g., Ampelophaga rubiginosa)**
+Large sphinx moth; larvae are hornworms on grapevines. Feed heavily on leaves, leaving large holes. Look for large, smooth caterpillars with tail “horn” and significant defoliation.
+
+**68. Lycorma delicatula (Spotted Lanternfly)**
+Colorful planthopper (\~2.5 cm), gray wings with black spots; red underwings. Nymphs and adults feed on phloem, excreting honeydew that leads to sooty mold. Key feature: spotted forewings and red underwing flash.
+
+**69. Xylotrechus (e.g., Xylotrechus arvicola)**
+Longhorn beetles with banded black and yellow bodies. Larvae bore into wood, especially grapevines. Look for frass piles, exit holes, and weakening of branches.
+
+**70. Cicadella viridis (Green Leafhopper)**
+Bright green leafhopper (\~5–7 mm). Feeds on plant sap, causes yellowing, stunted growth, and potential virus transmission. Jumps when disturbed; wedge-shaped body typical.
+
+**71. Miridae (Plant Bugs)**
+Family of small, fast-moving bugs with piercing-sucking mouthparts. Feed on tender parts of many crops, causing necrotic spots, flower abortion, and shoot curling. Commonly green or brown.
+
+**72. Trialeurodes vaporariorum (Greenhouse Whitefly)**
+Tiny white insect (\~1 mm) found on undersides of leaves. Causes yellowing, wilting, and sooty mold due to honeydew. Key sign: white waxy adults fluttering when disturbed.
+
+**73. Erythroneura apicalis**
+Tiny leafhopper with reddish marks on wings. Feeds on grapevines, causes stippling, leaf browning, and marginal necrosis. Visible as active, darting insect on undersides.
+
+**74. Papilio xuthus (Asian Swallowtail)**
+Large butterfly with black and yellow wings. Larvae are green with eye-like spots, feeding on citrus leaves. Look for chewed leaves and curled caterpillars with retractable orange osmeterium.
+
+**75. Panonchus citri McGregor (Citrus Red Mite)**
+Bright red mite feeding on upper leaf surfaces. Causes stippling, bronzing, and premature leaf drop. High contrast between red mite color and green leaf helps visual ID.
+
+**76. Phyllocoptes oleiverus ashmead (Olive Mite)**
+Eriophyid mite causing silvering and curling of olive leaves. Symptoms resemble virus infections. Look for curled tips, leaf thickening, and under-microscope mite clusters.
+
+**77. Icerya purchasi Maskell (Cottony Cushion Scale)**
+White, oval insect with prominent cottony egg sac. Feeds on sap, causes yellowing, stunting, and honeydew. Diagnostic: cottony ovoid mass on stems and branches.
+
+**78. Unaspis yanonensis (Citrus Snow Scale)**
+Armored scale insect with white, snowflake-like covering. Found in colonies on bark and stems, causing chlorosis and twig dieback. Hard white shields are characteristic.
+
+**79. Ceroplastes rubens (Red Wax Scale)**
+Hemisphere-shaped insect with reddish waxy coating. Found on citrus and ornamental plants. Causes chlorosis and dieback. Sticky honeydew often present.
+
+**80. Chrysomphalus aonidum (Florida Red Scale)**
+Armored scale insect, round, dark reddish-brown with a central nipple. Attaches to fruit, leaves, and branches. Causes yellow halos and dieback in heavy infestations.
+
+**81. Parlatoria zizyphus Lucas**
+Small armored scale insect with circular, pale gray to white waxy covering. Infests citrus and other woody plants, causing yellowing, leaf drop, and twig dieback. Look for dense colonies on stems and leaf undersides.
+
+**82. Nipaecoccus vastator**
+Soft scale insect, covered with white powdery wax. Feeds on sap, causing leaf yellowing, stunting, and honeydew secretion leading to sooty mold. Often found on citrus and tropical plants.
+
+**83. Aleurocanthus spiniferus (Orange Spiny Whitefly)**
+Whitefly with orange spines on body. Feeds on leaves, causing yellow spots and premature leaf drop. Nymphs appear spiny and sessile on leaf undersides.
+
+**84. Tetradacus c (Bactrocera minax)**
+A fruit fly species; adults are small with patterned wings. Larvae infest citrus fruits, causing internal rot and premature fruit drop. Look for puncture marks and oozing fruit.
+
+**85. Dacus dorsalis (Hendel)**
+Oriental fruit fly, with yellowish body and spotted wings. Larvae burrow in fruits like mango, causing decay and dropping. Adult flies often hover near fruit.
+
+**86. Bactrocera tsuneonis**
+Tephritid fruit fly; larvae infest citrus. Adults have patterned wings and yellowish bodies. Look for oviposition scars and decayed fruit.
+
+**87. Prodenia litura (Cotton Leafworm)**
+Green caterpillars with stripes, feed on cotton and other crops. Cause leaf defoliation and holes. Look for clustered larvae and irregular holes on leaves.
+
+**88. Adristyrannus**
+Little known genus of bugs; presumed piercing-sucking feeders. Likely cause leaf discoloration and stunting. Identification requires microscopic examination.
+
+**89. Phyllocnistis citrella Stainton (Citrus Leafminer)**
+Small moth whose larvae mine leaves creating serpentine trails. Look for silvery winding trails on young citrus leaves causing leaf curling and distortion.
+
+**90. Toxoptera citricidus (Brown Citrus Aphid)**
+Small brown aphid feeding on citrus shoots. Causes leaf curling, distortion, and transmits citrus tristeza virus. Look for dense aphid colonies on new growth.
+
+**91. Toxoptera aurantii (Black Citrus Aphid)**
+Black aphid, similar in behavior to T. citricidus. Causes stunted shoots and leaf curling. Produces honeydew leading to sooty mold.
+
+**92. Aphis citricola Vander Goot**
+Greenish aphid affecting citrus. Causes leaf curling, yellowing, and honeydew deposits. Look for clusters on stems and undersides of leaves.
+
+**93. Scirtothrips dorsalis Hood (Chili Thrips)**
+Small yellow-brown thrips damaging young leaves and fruit, causing scarring, silvering, and distortion. Vector of tospoviruses.
+
+**94. Dasineura sp**
+Gall midge larvae causing galls on leaves or stems of various plants. Look for swollen tissues and tiny larvae inside.
+
+**95. Lawana imitata Melichar**
+Planthopper species; adults are flat and brownish. Feeds on sap causing yellow spots and leaf curling.
+
+**96. Salurnis marginella Guérin**
+A species of beetle with feeding damage on leaves causing holes and necrotic patches. Adults dark-colored, often found on host plants.
+
+**97. Deporaus marginatus Pascoe**
+Weevil species feeding on leaves causing scalloped edges and holes. Adults small, with distinctive snout.
+
+**98. Chlumetia transversa**
+Moth species; larvae bore into stems or fruits. Damage shows as wilting or fruit drop. Look for entry holes and frass.
+
+**99. Mango Flat Beak Leafhopper**
+Small, flattened leafhopper feeding on mango leaves causing yellowing and leaf curling. Can vector mango diseases.
+
+**100. Rhytidodera bowrinii white**
+Beetle species; larvae bore into wood causing structural damage. Adults brown and robust.
+
+**101. Sternochetus frigidus**
+Seed weevil attacking mango kernels. Larvae develop inside seed, leading to poor seed viability and fruit quality.
+
+**102. Cicadellidae (Leafhopper Family)**
+Family of small, agile insects feeding on plant sap. Cause leaf yellowing, curling, and transmit many plant pathogens. Look for jumping behavior and wedge-shaped bodies.
