@@ -7,3 +7,4 @@ class Constants:
     TRAIN_PATH = os.path.join(DATASET_ROOT, "train.txt")
     VAL_PATH = os.path.join(DATASET_ROOT, "val.txt")
     TEST_PATH = os.path.join(DATASET_ROOT, "test.txt")
+    ID_LABEL_PATH = os.path.join('./', "classes.txt")
