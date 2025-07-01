@@ -15,6 +15,19 @@ def load_split_file(file_path):
     return samples
 
 
+def load_labels(filepath):
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+    labels = []
+    ids = []
+    for line in lines:
+        id_str, label = line.strip().split(maxsplit=1)
+        id = int(id_str)
+        ids.append(id)
+        labels.append(label)
+    return ids, labels
+
+
 class CustomImageDataset(Dataset):
     def __init__(self,image2class_path,transform=None):
         
