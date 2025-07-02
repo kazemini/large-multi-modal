@@ -29,22 +29,19 @@ def load_labels(filepath):
 
 
 class CustomImageDataset(Dataset):
-    def __init__(self,image2class_path,transform=None):
-        
+    def __init__(self, image2class_path, transform=None):
         self.data_list = load_split_file(image2class_path)
-        self.root_dir = Constants.IMG_ROOT    
+        self.root_dir = Constants.IMG_ROOT
         self.transform = transform
 
     def __len__(self):
         return len(self.data_list)
-    
+
     def __getitem__(self, idx):
         path, label = self.data_list[idx]
-        image_path= os.path.join(self.root_dir,path)
-        image= Image.open(image_path)
+        image_path = os.path.join(self.root_dir, path)
+        image = Image.open(image_path).convert('RGB')  # Ensure RGB format
 
         if self.transform:
             image = self.transform(image)
-
         return image, label
-
